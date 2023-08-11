@@ -15,3 +15,6 @@ try:
         print(text_rfid)
 finally:
         GPIO.cleanup()
+
+#nambah hello world
+print('Hello WOrld')
